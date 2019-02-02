@@ -1,0 +1,1 @@
+Grabs all the data from USB whenever it is inserted in the system.
